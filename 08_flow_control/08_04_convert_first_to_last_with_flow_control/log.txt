@@ -1,0 +1,212 @@
+VCD info: dumpfile dump.vcd opened for output.
+VCD warning: $dumpvars: Package ($unit) is not dumpable with VCD.
+time       5 cycle     0                                                                     
+time      15 cycle     1                                                                     
+time      25 cycle     2                                               down_ready            
+time      35 cycle     3 reset          up_ready                       down_ready            
+time      45 cycle     4 reset          up_ready                       down_ready            
+time      55 cycle     5 reset          up_ready                       down_ready            
+time      65 cycle     6                up_ready                       down_ready            
+time      75 cycle     7                up_ready                       down_ready            
+time      85 cycle     8                up_ready                       down_ready            
+time      95 cycle     9                up_ready                                             
+time     105 cycle    10       up_valid up_ready up_first A            down_ready            
+time     115 cycle    11                                                                     
+time     125 cycle    12                                                                     
+time     135 cycle    13       up_valid                     down_valid                       
+time     145 cycle    14       up_valid up_ready up_first A down_valid down_ready down_last A
+time     155 cycle    15       up_valid                     down_valid                       
+time     165 cycle    16       up_valid up_ready up_first F down_valid down_ready down_last A
+time     175 cycle    17       up_valid                     down_valid                       
+time     185 cycle    18       up_valid up_ready up_first V down_valid down_ready down_last F
+time     195 cycle    19       up_valid                     down_valid                       
+time     205 cycle    20       up_valid up_ready          E down_valid down_ready           V
+time     215 cycle    21       up_valid up_ready up_first O down_valid down_ready down_last E
+time     225 cycle    22       up_valid                     down_valid                       
+time     235 cycle    23       up_valid                     down_valid                       
+time     245 cycle    24       up_valid                     down_valid                       
+time     255 cycle    25       up_valid                     down_valid                       
+time     265 cycle    26       up_valid up_ready          N down_valid down_ready           O
+time     275 cycle    27                                                                     
+time     285 cycle    28                                                                     
+time     295 cycle    29       up_valid                     down_valid                       
+time     305 cycle    30       up_valid                     down_valid                       
+time     315 cycle    31       up_valid up_ready          Y down_valid down_ready           N
+time     325 cycle    32       up_valid up_ready up_first R down_valid down_ready down_last Y
+time     335 cycle    33       up_valid                     down_valid                       
+time     345 cycle    34       up_valid up_ready          Z down_valid down_ready           R
+time     355 cycle    35                                                                     
+time     365 cycle    36                                               down_ready            
+time     375 cycle    37       up_valid up_ready          U down_valid down_ready           Z
+time     385 cycle    38       up_valid                     down_valid                       
+time     395 cycle    39       up_valid up_ready          D down_valid down_ready           U
+time     405 cycle    40       up_valid                     down_valid                       
+time     415 cycle    41       up_valid                     down_valid                       
+time     425 cycle    42       up_valid up_ready          N down_valid down_ready           D
+time     435 cycle    43       up_valid up_ready          S down_valid down_ready           N
+time     445 cycle    44                                               down_ready            
+time     455 cycle    45                                                                     
+time     465 cycle    46                                               down_ready            
+time     475 cycle    47                                                                     
+time     485 cycle    48       up_valid                     down_valid                       
+time     495 cycle    49       up_valid                     down_valid                       
+time     505 cycle    50       up_valid                     down_valid                       
+time     515 cycle    51       up_valid                     down_valid                       
+time     525 cycle    52       up_valid up_ready up_first K down_valid down_ready down_last S
+time     535 cycle    53       up_valid up_ready          E down_valid down_ready           K
+time     545 cycle    54                                                                     
+time     555 cycle    55       up_valid                     down_valid                       
+time     565 cycle    56       up_valid up_ready          K down_valid down_ready           E
+time     575 cycle    57       up_valid                     down_valid                       
+time     585 cycle    58       up_valid up_ready          L down_valid down_ready           K
+time     595 cycle    59       up_valid                     down_valid                       
+time     605 cycle    60       up_valid                     down_valid                       
+time     615 cycle    61       up_valid                     down_valid                       
+time     625 cycle    62       up_valid                     down_valid                       
+time     635 cycle    63       up_valid up_ready          V down_valid down_ready           L
+time     645 cycle    64       up_valid up_ready          R down_valid down_ready           V
+time     655 cycle    65                                                                     
+time     665 cycle    66       up_valid                     down_valid                       
+time     675 cycle    67       up_valid up_ready          T down_valid down_ready           R
+time     685 cycle    68       up_valid up_ready up_first Y down_valid down_ready down_last T
+time     695 cycle    69       up_valid up_ready up_first X down_valid down_ready down_last Y
+time     705 cycle    70                                                                     
+time     715 cycle    71                                               down_ready            
+time     725 cycle    72       up_valid                     down_valid                       
+time     735 cycle    73       up_valid                     down_valid                       
+time     745 cycle    74       up_valid up_ready up_first D down_valid down_ready down_last X
+time     755 cycle    75       up_valid up_ready          O down_valid down_ready           D
+time     765 cycle    76       up_valid                     down_valid                       
+time     775 cycle    77       up_valid                     down_valid                       
+time     785 cycle    78       up_valid up_ready up_first B down_valid down_ready down_last O
+time     795 cycle    79       up_valid                     down_valid                       
+time     805 cycle    80       up_valid                     down_valid                       
+time     815 cycle    81       up_valid                     down_valid                       
+time     825 cycle    82       up_valid up_ready          W down_valid down_ready           B
+time     835 cycle    83       up_valid                     down_valid                       
+time     845 cycle    84       up_valid                     down_valid                       
+time     855 cycle    85       up_valid                     down_valid                       
+time     865 cycle    86       up_valid                     down_valid                       
+time     875 cycle    87       up_valid up_ready up_first U down_valid down_ready down_last W
+time     885 cycle    88                                                                     
+time     895 cycle    89       up_valid up_ready          T down_valid down_ready           U
+time     905 cycle    90                                               down_ready            
+time     915 cycle    91                                               down_ready            
+time     925 cycle    92       up_valid up_ready          E down_valid down_ready           T
+time     935 cycle    93       up_valid up_ready          K down_valid down_ready           E
+time     945 cycle    94       up_valid                     down_valid                       
+time     955 cycle    95       up_valid                     down_valid                       
+time     965 cycle    96       up_valid                     down_valid                       
+time     975 cycle    97       up_valid                     down_valid                       
+time     985 cycle    98       up_valid up_ready          F down_valid down_ready           K
+time     995 cycle    99       up_valid up_ready          I down_valid down_ready           F
+time    1005 cycle   100       up_valid                     down_valid                       
+time    1015 cycle   101       up_valid                     down_valid                       
+time    1025 cycle   102       up_valid up_ready          H down_valid down_ready           I
+time    1035 cycle   103                                                                     
+time    1045 cycle   104       up_valid                     down_valid                       
+time    1055 cycle   105       up_valid                     down_valid                       
+time    1065 cycle   106       up_valid                     down_valid                       
+time    1075 cycle   107       up_valid up_ready          S down_valid down_ready           H
+time    1085 cycle   108                                                                     
+time    1095 cycle   109                                                                     
+time    1105 cycle   110                                               down_ready            
+time    1115 cycle   111                                                                     
+time    1125 cycle   112                                               down_ready            
+time    1135 cycle   113                                               down_ready            
+time    1145 cycle   114                                               down_ready            
+time    1155 cycle   115                                               down_ready            
+time    1165 cycle   116                                               down_ready            
+time    1175 cycle   117                                               down_ready            
+time    1185 cycle   118                                                                     
+time    1195 cycle   119                                               down_ready            
+time    1205 cycle   120                                               down_ready            
+time    1215 cycle   121                                               down_ready            
+time    1225 cycle   122                                               down_ready            
+time    1235 cycle   123                                                                     
+time    1245 cycle   124                                                                     
+time    1255 cycle   125                                               down_ready            
+time    1265 cycle   126                                               down_ready            
+time    1275 cycle   127                                                                     
+time    1285 cycle   128                                                                     
+time    1295 cycle   129                                               down_ready            
+time    1305 cycle   130                                                                     
+time    1315 cycle   131                                               down_ready            
+time    1325 cycle   132                                               down_ready            
+time    1335 cycle   133                                               down_ready            
+time    1345 cycle   134                                               down_ready            
+time    1355 cycle   135                                               down_ready            
+time    1365 cycle   136                                                                     
+time    1375 cycle   137                                                                     
+time    1385 cycle   138                                               down_ready            
+time    1395 cycle   139                                               down_ready            
+time    1405 cycle   140                                               down_ready            
+time    1415 cycle   141                                               down_ready            
+time    1425 cycle   142                                               down_ready            
+time    1435 cycle   143                                               down_ready            
+time    1445 cycle   144                                               down_ready            
+time    1455 cycle   145                                               down_ready            
+time    1465 cycle   146                                                                     
+time    1475 cycle   147                                                                     
+time    1485 cycle   148                                                                     
+time    1495 cycle   149                                                                     
+time    1505 cycle   150                                               down_ready            
+time    1515 cycle   151                                                                     
+time    1525 cycle   152                                                                     
+time    1535 cycle   153                                                                     
+time    1545 cycle   154                                                                     
+time    1555 cycle   155                                                                     
+time    1565 cycle   156                                                                     
+time    1575 cycle   157                                                                     
+time    1585 cycle   158                                               down_ready            
+time    1595 cycle   159                                               down_ready            
+time    1605 cycle   160                                                                     
+time    1615 cycle   161                                               down_ready            
+time    1625 cycle   162                                                                     
+time    1635 cycle   163                                               down_ready            
+time    1645 cycle   164                                               down_ready            
+time    1655 cycle   165                                               down_ready            
+time    1665 cycle   166                                                                     
+time    1675 cycle   167                                                                     
+time    1685 cycle   168                                                                     
+time    1695 cycle   169                                                                     
+time    1705 cycle   170                                               down_ready            
+time    1715 cycle   171                                               down_ready            
+time    1725 cycle   172                                               down_ready            
+time    1735 cycle   173                                               down_ready            
+time    1745 cycle   174                                               down_ready            
+time    1755 cycle   175                                               down_ready            
+time    1765 cycle   176                                               down_ready            
+time    1775 cycle   177                                                                     
+time    1785 cycle   178                                                                     
+time    1795 cycle   179                                               down_ready            
+time    1805 cycle   180                                                                     
+time    1815 cycle   181                                                                     
+time    1825 cycle   182                                                                     
+time    1835 cycle   183                                                                     
+time    1845 cycle   184                                                                     
+time    1855 cycle   185                                                                     
+time    1865 cycle   186                                               down_ready            
+time    1875 cycle   187                                                                     
+time    1885 cycle   188                                                                     
+time    1895 cycle   189                                               down_ready            
+time    1905 cycle   190                                               down_ready            
+time    1915 cycle   191                                                                     
+time    1925 cycle   192                                                                     
+time    1935 cycle   193                                                                     
+time    1945 cycle   194                                                                     
+time    1955 cycle   195                                               down_ready            
+time    1965 cycle   196                                               down_ready            
+time    1975 cycle   197                                                                     
+time    1985 cycle   198                                               down_ready            
+time    1995 cycle   199                                               down_ready            
+time    2005 cycle   200                                               down_ready            
+time    2015 cycle   201                                               down_ready            
+time    2025 cycle   202                                               down_ready            
+time    2035 cycle   203                                               down_ready            
+time    2045 cycle   204                                               down_ready            
+time    2055 cycle   205                                               down_ready            
+
+
+number of transfers : 34 per 200 cycles
+PASS ./testbench.sv

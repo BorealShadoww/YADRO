@@ -1,0 +1,5 @@
+./testbench.sv:166: warning: macro PD undefined (and assumed null) at this point.
+./testbench.sv:169: warning: macro PD undefined (and assumed null) at this point.
+VCD info: dumpfile dump.vcd opened for output.
+VCD warning: $dumpvars: Package ($unit) is not dumpable with VCD.
+PASS ./testbench.sv
