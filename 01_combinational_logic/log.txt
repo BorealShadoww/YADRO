@@ -1,0 +1,11 @@
+PASS 01_01_mux_question/testbench.sv
+PASS 01_02_mux_if/testbench.sv
+PASS 01_03_mux_case/testbench.sv
+PASS 01_04_mux_index/testbench.sv
+PASS 01_05_mux_gates/testbench.sv
+PASS 01_06_mux_2n_using_muxes_n/testbench.sv
+PASS 01_07_mux_using_narrow_data_muxes/testbench.sv
+PASS 01_08_not_gate_using_mux/testbench.sv
+PASS 01_09_and_gate_using_mux/testbench.sv
+PASS 01_10_or_gate_using_mux/testbench.sv
+PASS 01_11_xor_gate_using_mux/testbench.sv
